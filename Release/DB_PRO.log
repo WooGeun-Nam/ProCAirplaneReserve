@@ -1,0 +1,2 @@
+﻿  AirReserve.c
+C:\Users\rolru\OneDrive\DB응용팀플\VC프로젝트\AirReserve.c(225,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'sqlda.h': No such file or directory

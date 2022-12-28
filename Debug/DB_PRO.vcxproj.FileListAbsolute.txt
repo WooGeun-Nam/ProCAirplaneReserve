@@ -1,0 +1,7 @@
+C:\Users\HERO\Desktop\DB_PRO\Debug\DB_PRO.exe
+C:\Users\HERO\Desktop\DB_PRO\Debug\DB_PRO.pdb
+C:\Users\rolru\Desktop\DB_PRO\Debug\DB_PRO.exe
+D:\DB_PRO\Debug\DB_PRO.exe
+D:\DB_PRO\Debug\DB_PRO.pdb
+F:\DB_PRO\Debug\DB_PRO.exe
+C:\Users\rolru\OneDrive\DB응용팀플\VC프로젝트\Debug\DB_PRO.exe
